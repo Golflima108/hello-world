@@ -2,4 +2,4 @@
 Just another repository
 
 
-Hi I just chnaged this
+Hi I just changed this
